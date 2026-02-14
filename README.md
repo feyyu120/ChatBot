@@ -1,3 +1,7 @@
+I only hide the backend .evn file because there is ai-api-key and cloudinary....to do not waste ...
+I can also hide the backend ,but no need for this project bcos everyone can see it...(do not take it as a limitation pls)
+
+
 Register.jsx
 
  <img width="1916" height="907" alt="Screenshot 2026-02-14 175849" src="https://github.com/user-attachments/assets/e648b774-16de-4cac-b174-e09edfd07a48" />
@@ -18,5 +22,13 @@ admin.jsx
 
 on mobile
 <img width="416" height="768" alt="Screenshot 2026-02-14 082532" src="https://github.com/user-attachments/assets/1bc1166a-12ad-4000-ad70-2bf1d085390a" />
+
 <img width="382" height="764" alt="Screenshot 2026-02-14 082559" src="https://github.com/user-attachments/assets/79605f26-e878-425c-9345-97cc8b8841c0" />
 
+
+on database like this 
+<img width="1501" height="791" alt="Screenshot 2026-02-14 191207" src="https://github.com/user-attachments/assets/4e6d0445-d6eb-4ca3-9b3d-7c58762daf19" />
+
+
+
+Feysel Yassin
