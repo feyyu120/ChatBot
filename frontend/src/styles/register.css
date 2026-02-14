@@ -1,0 +1,8 @@
+@import "./login.css";
+
+.register-bg {
+  background-image: url("../assets/Developer\ activity-bro.png");
+  object-fit: contain;
+  background-position: center;
+  background-size: cover;
+}

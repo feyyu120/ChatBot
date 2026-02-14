@@ -1,0 +1,95 @@
+.auth-container {
+  display: flex;
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+.auth-left {
+  flex: 1;
+  background-image: url("../assets/Artificial\ intelligence-amico.png");
+  object-fit: contain;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  padding: 40px;
+  
+}
+
+
+.auth-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+
+}
+
+.form-box {
+  width: 350px;
+}
+
+.form-box h2 {
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: rgb(107, 94, 94);
+  margin-bottom: 25px;
+}
+
+.input-group {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 12px 40px;
+  border-radius: 25px;
+  border: 1px solid #ddd;
+  outline: none;
+
+}
+
+.input-group input:focus {
+  border-color: #4a8f7b;
+}
+
+.icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: gray;
+}
+
+.botton {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background: #4a8f7b;
+  color: white;
+  cursor: pointer;
+  border-radius: 20px;
+ }
+
+.switch {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.switch a {
+  color: #4a8f7b;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .auth-left {
+    display: none;
+  }
+}
